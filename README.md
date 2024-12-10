@@ -47,4 +47,5 @@ I'm **Ahmed Sharabash**, a well-rounded Full-Stack Developer with 1.5 years of p
 - **Email**: [ahmdmsty345@gmail.com](mailto:ahmdmsty345@gmail.com)
 - **Phone**: +20 01144781238
 - **Location**: Tanta, Gharbiya
+- **LinkedIN**:[Ahmed Sharabash](https://www.linkedin.com/in/ahmedsharabash)
 
