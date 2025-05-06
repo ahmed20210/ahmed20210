@@ -1,6 +1,34 @@
 # Hi there 👋
 
 I'm **Ahmed Sharabash**, a well-rounded Full-Stack Developer with 1.5 years of professional experience. I specialize in both frontend and backend development, delivering seamless and results-driven solutions. My passion lies in building user-friendly interfaces, robust backend systems, and ensuring scalable applications. 🚀
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed20210&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+<!--
+## 🧮 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed20210&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+-->
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed20210&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+
 
 ## 💻 Tech Stack
 
