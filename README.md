@@ -5,9 +5,7 @@ I'm **Ahmed Sharabash**, a well-rounded Full-Stack Developer with 1.5 years of p
 
 ## 🔥 GitHub Contribution Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed20210&theme=tokyonight" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmed20210&theme=dark)](https://git.io/streak-stats)
 
 ---
 <!--
