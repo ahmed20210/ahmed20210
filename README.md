@@ -1,6 +1,26 @@
-# Hi there 👋
+👋 Hi there! I'm a self-taught full-stack developer with over 2 years of professional experience building modern web applications.
 
-I'm **Ahmed Sharabash**, a well-rounded Full-Stack Developer with 1.5 years of professional experience. I specialize in both frontend and backend development, delivering seamless and results-driven solutions. My passion lies in building user-friendly interfaces, robust backend systems, and ensuring scalable applications. 🚀
+💻 My skill set covers both front-end and back-end development:
+
+Front-end: HTML5, CSS3, Sass, Bootstrap, Tailwind CSS, JavaScript (ES6+), TypeScript, ReactJS, Redux, Next.js
+
+Back-end: Node.js, Express.js, MongoDB
+
+Tooling & Workflow: Gulp.js, Git, RESTful APIs
+
+🔧 I'm passionate about:
+
+Clean, responsive web design
+
+Object-oriented programming
+
+Creating seamless and optimized user experiences
+
+🧠 With a strong foundation in problem-solving, a keen eye for detail, and clear communication skills, I enjoy collaborating in team settings and translating technical ideas into practical solutions.
+
+🚀 I thrive in fast-paced, ever-evolving environments and continually push myself to stay current with new technologies and best practices.
+
+Let’s connect and build something amazing together!
 ---
 
 ## 🔥 GitHub Contribution Streak
